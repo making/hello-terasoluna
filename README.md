@@ -1,3 +1,5 @@
+https://github.com/terasolunaorg/terasoluna-gfw-web-blank?tab=readme-ov-file#a-blank-projectjavaconfigjsp-without-any-db-configuration
+
 ```
 tanzu apps workload apply hello-terasoluna \
   --app hello-terasoluna \
