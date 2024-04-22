@@ -7,5 +7,6 @@ tanzu apps workload apply hello-terasoluna \
   --label apps.tanzu.vmware.com/has-tests=true \
   -n apps \
   --build-env BP_JVM_VERSION=17 \
+  --build-env BP_TOMCAT_VERSION=10 \
   -y
 ```
